@@ -608,4 +608,27 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
 | **Puntos de Dolor** | Dificultad para administrar pedidos de múltiples minimarkets, falta de visibilidad sobre el estado de las operaciones, gestión fragmentada de inventarios y lotes, y dificultades para coordinar despachos y entregas. |
 | **Uso de Tecnología** | Utilizan herramientas digitales, hojas de cálculo y aplicaciones de comunicación para gestionar inventarios, clientes y pedidos, pero pueden carecer de una plataforma especializada que conecte directamente su disponibilidad de productos con los minimarkets. |
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+##  2.1. Competidores
+
+##  2.2. Entrevistas
+
+### 2.2.1 Segmento 1: Administradores
+
+### 2.2.2 Segmento 2: Proveedores
+
+## 2.3 Needfinding
+
+### 2.3.1 User Persona
+
+**Segmento 1: Administradores**
+
+**Segmento 2: Proveedores**
+
+### 2.3.2 Empathy Mapping
+
+### 2.3.4 Task Matrix
+
+### 2.3.5 Journey Maps
 <!-- AUTO-DOCS:END -->
