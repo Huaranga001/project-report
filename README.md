@@ -613,11 +613,66 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
 ##  2.1. Competidores
 
 ##  2.2. Entrevistas
+### 2.2.1 Diseño de entrevistas
+**Segmento 1: Administradores**
 
-### 2.2.1 Segmento 1: Administradores
+**Segmento 2: Proveedores**
+1. ¿Cómo controlan el stock y la fecha de vencimiento de sus productos?
+2. ¿Cómo evitan vender productos que ya no tienen en stock?
+3. ¿Cómo aplican descuentos por compras grandes?
+4. ¿Qué problema tienen al cambiar o actualizar precios?
+5. ¿Por qué medio reciben los pedidos de los minimarkets?
+6. ¿Qué errores ocurren al armar los pedidos?
+7. ¿Cómo sabe el cliente cuándo llegará su pedido?
+8. ¿Qué hacen si el producto llega dañado o maltratado?
+9. ¿Qué función de la plataforma les serviría más?
+10. ¿Cuál sería el mayor obstáculo para usar esta plataforma?
 
-### 2.2.2 Segmento 2: Proveedores
+### 2.2.2 Registro de entrevistas
+**Segmento 1: Administradores**
 
+**Segmento 2: Proveedores**
+<table>
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 1</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        <img src="PlaceHolder" alt="Entrevista 1" width="900">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>Sara Lopez</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>53 años</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>Microempresaria / encargada de negocio con productos perecibles</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>WhatsApp y llamadas telefónicas</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración:</strong> 05:30</td>
+      <td colspan="2"><strong>URL de grabación:</strong> <a href="PlaceHolder">Ver video</a></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong>
+        <p>PlaceHolder</p>
+        <p>PlaceHolder</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ## 2.3 Needfinding
 
 ### 2.3.1 User Persona
