@@ -644,25 +644,22 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
     <tr>
       <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
-      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>Sara Lopez</td>
+      <td>PlaceHolder</td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
       <td>53 años</td>
     </tr>
     <tr>
-      <td><strong>Definición profesional / cargo</strong></td>
-      <td>Microempresaria / encargada de negocio con productos perecibles</td>
-      <td><strong>Canales digitales de comunicación</strong></td>
-      <td>WhatsApp y llamadas telefónicas</td>
+      <td><strong>Definición profesional</strong></td>
+      <td>PlaceHolder</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Duración:</strong> 05:30</td>
-      <td colspan="2"><strong>URL de grabación:</strong> <a href="PlaceHolder">Ver video</a></td>
+      <td colspan="2"><strong>Duración:</strong> 03:18</td>
+      <td colspan="2"><strong>URL de grabación:</strong> <a href="[PlaceHolder](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410746_upc_edu_pe/IQCwo0q-bj1uQYt69CNCW2yzASlNO3LdQ3uNfi95xgfa4Dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ya7Fk5)">Ver video</a></td>
     </tr>
     <tr>
       <td colspan="4">
