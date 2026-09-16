@@ -613,22 +613,7 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
 ##  2.1. Competidores
 
 ##  2.2. Entrevistas
-### 2.2.1 Diseño de entrevistas
-**Segmento 1: Administradores**
 
-**Segmento 2: Proveedores**
-1. ¿Cómo controlan el stock y la fecha de vencimiento de sus productos?
-2. ¿Cómo evitan vender productos que ya no tienen en stock?
-3. ¿Cómo aplican descuentos por compras grandes?
-4. ¿Qué problema tienen al cambiar o actualizar precios?
-5. ¿Por qué medio reciben los pedidos de los minimarkets?
-6. ¿Qué errores ocurren al armar los pedidos?
-7. ¿Cómo sabe el cliente cuándo llegará su pedido?
-8. ¿Qué hacen si el producto llega dañado o maltratado?
-9. ¿Qué función de la plataforma les serviría más?
-10. ¿Cuál sería el mayor obstáculo para usar esta plataforma?
-
-### 2.2.2 Registro de entrevistas
 **Segmento 1: Administradores**
 
 **Segmento 2: Proveedores**
@@ -670,6 +655,7 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
   </tbody>
 </table>
+
 ## 2.3 Needfinding
 
 ### 2.3.1 User Persona
