@@ -624,7 +624,7 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="PlaceHolder" alt="Entrevista 1" width="900">
+        <img src="docs/assets/chapter-02/entrevista1_proovedores.png" alt="Entrevista 1" width="900">
       </td>
     </tr>
     <tr>
