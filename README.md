@@ -631,15 +631,15 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
       <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
     </tr>
     <tr>
-      <td><strong>Nombre completo</strong></td>
+      <td colspan="2" align="center"><strong>Nombre completo</strong></td>
       <td>Luz Rojas</td>
     </tr>
     <tr>
-      <td><strong>Edad</strong></td>
+      <td colspan="2" align="center"><strong>Edad</strong></td>
       <td>47 años</td>
     </tr>
     <tr>
-      <td><strong>Definición profesional</strong></td>
+      <td colspan="2" align="center"><strong>Definición profesional</strong></td>
       <td>PlaceHolder</td>
     </tr>
     <tr>
