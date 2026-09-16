@@ -632,11 +632,11 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>PlaceHolder</td>
+      <td>Luz Rojas</td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>53 años</td>
+      <td>47 años</td>
     </tr>
     <tr>
       <td><strong>Definición profesional</strong></td>
@@ -644,13 +644,13 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
     <tr>
       <td colspan="2"><strong>Duración:</strong> 03:18</td>
-      <td colspan="2"><strong>URL de grabación:</strong> <a href="[url](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410746_upc_edu_pe/IQCwo0q-bj1uQYt69CNCW2yzASlNO3LdQ3uNfi95xgfa4Dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ya7Fk5)">Ver video</a></td>
+      <td colspan="2"><strong>URL de grabación:</strong> <a href="[[url]()](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410746_upc_edu_pe/IQCwo0q-bj1uQYt69CNCW2yzASlNO3LdQ3uNfi95xgfa4Dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ya7Fk5)">Ver video</a></td>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong>
-        <p>PlaceHolder</p>
-        <p>PlaceHolder</p>
+        <p>Este video presenta una entrevista con Luz Rojas sobre el uso y desafíos en la gestión y comercialización de productos orgánicos a través de una plataforma digital llamada Market-Labs. El objetivo central es mostrar cómo esta plataforma puede facilitar la gestión de inventarios, precios, pedidos y seguimiento de entregas para productores y proveedores.</p>
+        <p>Está especialmente dirigido a pequeños y medianos productores o comerciantes de productos orgánicos que buscan optimizar su operación y evitar errores comunes en stock, precios y logística. El espectador aprenderá las dificultades habituales en la administración manual y el potencial beneficio de digitalizar estos procesos con herramientas tecnológicas.</p>
       </td>
     </tr>
   </tbody>
