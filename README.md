@@ -628,7 +628,7 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="4" align="center"><strong>Información del entrevistado</strong></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><strong>Nombre completo</strong></td>
