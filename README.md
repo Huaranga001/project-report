@@ -703,7 +703,7 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
 
 **Segmento 2: Proveedores**
 
-![User Persona Luz Rojas](docs/assets/chapter-02/docs/assets/chapter-02/User_Persona_1_TEST.png)
+![User Persona Luz Rojas](docs/assets/chapter-02/User_Persona_1_TEST.png)
 
 ### 2.3.2 Empathy Mapping
 
