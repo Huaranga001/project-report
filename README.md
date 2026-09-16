@@ -624,7 +624,46 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="docs/assets/chapter-02/entrevista1_proovedores.png" alt="Entrevista 1" width="900">
+        <img src="docs/assets/chapter-02/entrevista2_proovedores.png" alt="Entrevista 1" width="900">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center"><strong>Información del entrevistado</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Nombre completo</strong></td>
+      <td>Álvaro Chojaga</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Edad</strong></td>
+      <td>54 años</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Definición profesional</strong></td>
+      <td>Administrador / Jefe de Operaciones y Ventas</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración:</strong> 04:06</td>
+      <td colspan="2"><strong>URL de grabación:</strong> <a href="https://upcedupe-my.sharepoint.com/personal/u202410746_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410746%5Fupc%5Fedu%5Fpe%2FDocuments%2FWhatsApp%20Video%202026%2D09%2D13%20at%209%2E09%2E01%20PM%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea50bc394%2D6f9c%2D4932%2Db137%2D8b9b49babf91">Ver video</a></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong>
+        <p>El video presenta una entrevista con Álvaro Chojaga, un proveedor de productos orgánicos, donde se introduce una plataforma web diseñada para mejorar la gestión y comercialización de productos orgánicos. La plataforma ofrece funciones como publicidad de productos, control de stock, gestión sanitaria, pedidos, y seguimiento de entregas.</p>
+        <p>El contenido está orientado a proveedores y distribuidores que buscan optimizar su manejo de inventarios, pedidos y precios, aprendiendo mejores prácticas para evitar errores comunes y mejorar la comunicación con sus clientes.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 2</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        <img src="docs/assets/chapter-02/entrevista1_proovedores.png" alt="Entrevista 2" width="900">
       </td>
     </tr>
     <tr>
@@ -640,7 +679,7 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
     </tr>
     <tr>
       <td colspan="2" align="center"><strong>Definición profesional</strong></td>
-      <td>PlaceHolder</td>
+      <td>Comerciante / Mayorista de Productos Orgánicos</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Duración:</strong> 03:18</td>
