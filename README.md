@@ -707,6 +707,12 @@ Los roles operativos que puedan existir dentro de cada empresa forman parte de l
 
 ### 2.3.2 Empathy Mapping
 
+**Segmento 1: Administradores**
+
+**Segmento 2: Proveedores**
+
+![Empathy Map Luz Rojas](docs/assets/chapter-02/empathy_map2_test.png)
+
 ### 2.3.4 Task Matrix
 
 ### 2.3.5 Journey Maps
